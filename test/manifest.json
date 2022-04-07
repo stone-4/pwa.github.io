@@ -1,0 +1,29 @@
+{
+  "name": "AplicacionPrueba",
+  "short_name": "Prueba",
+  "description": "Esta es una prueba, de mi primera PWA",
+  "background_color": "#2B2B2B",
+  "theme_color": "#F0DB4F",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-PE",
+  "icons": [
+    {
+      "src": "iconos/gato-w.png",
+      "sizes": "256x256",
+      "type": "image/png" 
+    },
+    {
+      "src": "iconos/gato-a.png",
+      "sizes": "64x64",
+      "type": "image/png" 
+    },
+    {
+      "src": "iconos/gato.png",
+      "sizes": "16x16",
+      "type": "image/png" 
+    }
+  ]
+}
